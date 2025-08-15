@@ -1,6 +1,7 @@
 # Client Onboarding Form
 
 A Next.js application with React Hook Form and Zod validation for client onboarding.
+
 <img width="1034" height="864" alt="image" src="https://github.com/user-attachments/assets/c636858d-98f4-4d0d-9d28-359b83f690a8" />
 
 
